@@ -1,6 +1,6 @@
 # S_excel2
 
-TASKS (SET 1)									
+## TASKS (SET 1)									
 1. Create a new column named 'total score' for the sum of the math, reading and writing scores. 									
 2. Create a new column for the average score of the students. Name the column 'Average score'.									
 3. The maximum obtainable total score is 300. Create a new column named 'total score converted' to convert the total scores to 100.									
@@ -10,7 +10,9 @@ TASKS (SET 1)
 6. Which student obtained the highest total score?									
 7. Using conditional formating colour the cells. Green (A*), Blue (A), Yellow (B), Purple (C) and Red (D and U)									
 									
-									
+
+
+## THE DATASET
 									
 gender	race/ethnicity	parental level of education	lunch	test preparation course	math score	reading score	writing score		
 female	group B	bachelor's degree	standard	none	72	72	74		
